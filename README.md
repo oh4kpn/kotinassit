@@ -40,7 +40,7 @@ Tämä dokumentti sisältää kotiverkon tallennuslaitteiden nimeämiskäytänn�
 * **Sijainti:** Verkkolevy (NAS)
 
 ### Tekniset tiedot
-* **Laitteisto:** Western Digital My Cloud Pro PR4100 (4-paikkainen työjuhta).
+* **Laitteisto:** Western Digital 4100 (4-paikkainen työjuhta).
 * **Vikasietoisuus:** **RAID 5**. Järjestelmä kestää **yhden (1) levyn hajoamisen**. Jos levy rikkoontuu, se on korvattava välittömästi uudella, jotta pakka saadaan palautettua (*rebuild*).
 
 ### Käyttökohde ja datan kriittisyys
