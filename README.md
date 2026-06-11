@@ -65,7 +65,7 @@ Tämä dokumentti sisältää kotiverkon tallennuslaitteiden nimeämiskäytänn�
 * **Kapasiteetti:** Noin **20 TB** puhdasta tallennustilaa per purkki RAID-muodostuksen jälkeen.
 
 ### Suorituskyky ja editoinnin optimointi
-* **Yhteys:** Kytketty erillisillä Thunderbolt-kaapeleilla suoraan Mac Minin omiin portteihin maksimaalisen kaistan takaamiseksi (vältetty ketjutusta).
+* **Yhteys:** Ketjutettu TB2 kaapelointi (TBD: Kytketty erillisillä Thunderbolt-kaapeleilla suoraan Mac Minin omiin portteihin maksimaalisen kaistan takaamiseksi)
 * **Nopeus:** RAID 5 -konfiguraatio tarjoaa laitteistotason (Hardware RAID) ohjaimella noin **500–650 MB/s kirjoitusnopeuden** ja **yli 700 MB/s lukunopeuden**.
 * **Tiedostojärjestelmän valinta:** Tavallinen APFS takaa täyden yhteensopivuuden Adobe Creative Cloudin (Premiere Pro, After Effects), Final Cut Pron ja DaVinci Resolven kanssa ilman case-sensitive-alustojen aiheuttamia välimuisti- tai plugivirheitä.
 
